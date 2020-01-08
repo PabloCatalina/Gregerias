@@ -1,0 +1,37 @@
+body {
+    background-color: hsl(145, 50%, 35%);
+    font-family: sans-serif;
+}
+h1 {
+    font-size: 320%;
+    text-transform: capitalize;
+}
+
+p {
+    font-size: 160%;
+
+}
+
+p.infantil {
+    color: white;
+    font-family: serif;
+    font-style: oblique;
+}
+
+p.golondrina {
+    color: hsl(35, 100%, 85%);
+    font-family: sans-serif;
+}
+
+
+p.libro {
+    color: hsl(35, 100%, 55%);
+    font-size: 200%;
+    font-family: monospace;
+ }
+
+p.numeros {
+    color: hsl(345, 80%, 50%);
+    font-family: cursive;
+
+}
